@@ -43,12 +43,13 @@ def main():
     # Generate image
     image_url = generate_image_prompt(prompt)
 
-    num_images = 2
+    num_images = 12
     for i in range(num_images):
         image_prompt = f"{prompt} - Part {i + 1}"
         image_url = generate_image_prompt(image_prompt)
-        #print(f"Image {i + 1}: {image_url}")
+        # print(f"Image {i + 1}: {image_url}")
         save_image(image_url, f"img/image_{i + 1}.png")
+        print(f"Image{i+1} saved")
 
 if __name__ == "__main__":
     main()
