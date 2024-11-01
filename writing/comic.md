@@ -5,7 +5,7 @@ your overall narrative. These _may_ (should, kinda?) include some
 gesture toward text -- even if placed on the images by the author
 and not the generator.
 
-![Milo and Penny walking away from the parade as the sun sets, with a peaceful and magical atmosphere.](C:\Users\lilli\comp_sci\350-computational-narrative\prompt6-visual-narrative-cschwartz01\src\img\panel_1.webp)
+![Milo and Penny walking away from the parade as the sun sets, with a peaceful and magical atmosphere.](C:\Users\lilli\comp_sci\350-computational-narrative\prompt6-visual-narrative-cschwartz01\src\img\panel_1.png)
 ![Panel 2](C:\Users\lilli\comp_sci\350-computational-narrative\prompt6-visual-narrative-cschwartz01\src\img\panel_2.webp)
 ![Panel 3](C:\Users\lilli\comp_sci\350-computational-narrative\prompt6-visual-narrative-cschwartz01\src\img\panel_3.webp)
 ![Panel 4](C:\Users\lilli\comp_sci\350-computational-narrative\prompt6-visual-narrative-cschwartz01\src\img\panel_4.webp)
