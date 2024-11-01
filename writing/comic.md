@@ -5,7 +5,7 @@ your overall narrative. These _may_ (should, kinda?) include some
 gesture toward text -- even if placed on the images by the author
 and not the generator.
 
-![Panel 1](img/panel_1.png)
+![Panel 1](src/img/panel_1.png)
 
 ![Panel 2](img\panel_2.png)
 
